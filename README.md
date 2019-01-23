@@ -28,6 +28,7 @@ At the backend, each photograph she takes is stored, along with the summary info
 
 In addition, the information collated can be sent to insurance companies, the tool made accessible for crowd-sourcing to allow individuals to self-report information, or simply be used through entering address information to gather pre-disaster summaries for the property.
 
+![Alt Text](./Images/website_gif.gif)
 
 ###
 **Under the hood**
