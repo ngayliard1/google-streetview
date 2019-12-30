@@ -12,6 +12,8 @@ import exifread
 import pandas as pd
 
 @app.route('/')
+def main_page():
+    return redirect(url_for('photoaddress'))
 
 #creating flask page for photo imput
 @app.route('/index', methods=['GET', 'POST'])
